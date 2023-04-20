@@ -1,0 +1,105 @@
+body {
+  margin: -1px;
+  border: 12rem solid #A2A5AE;
+}
+.school h1{
+  color: red;
+  text-align: left;
+  font-family: arial;
+  font-size: 20px;
+}
+img{
+  float: left;
+  padding: 15px 5px;
+}
+.school h2{
+  margin-top: -18px;
+  color: red;
+  text-align: left;
+  font-family: arial;
+  font-size: 18px;
+}
+.school h4{
+  margin-top: -15px;
+  color:red;
+  text-align:left;
+  font-family:arial;
+  font-size: 13px;
+}
+.school {
+  clear: right;
+  margin-right: 30px;
+}
+.a {
+  color:red;
+  text-align:center;
+  font-family:arial;
+  font-size: 17px;
+  margin-top: 50px;
+  margin-right: 50px;
+}
+.c {
+  color:red;
+  text-align:center;
+  font-family:arial; 
+  float: left;
+  font-size: 17px;
+}
+.d {
+  color:red;
+  text-align:center;
+  font-family:arial;
+  clear: left;
+  font-size: 17px;
+}
+.header {
+  display: flex;
+}
+.num {
+  margin-top: 25px;
+  display: inline-block;
+}
+.e{
+  color:black;
+  text-align:center;
+  font-family:arial; 
+  font-size: 17px;  
+  margin-left: 10px;
+}
+.f{
+  color:black;
+  text-align:center;
+  font-family:arial;
+  font-size: 17px;
+  margin-left: 10px;
+} 
+.in {
+  display: flex;
+}
+.in_2 {
+  display: flex;
+}
+th {
+  text-align: left;
+  padding-left: 50px;
+}
+
+td {
+  padding: 5px 6px;
+}
+
+.form h4 {
+  color:white;
+  background:red;
+  text-align: left;
+  font-family: arial;
+  padding: 6px;
+}
+.form_2 h4 {
+  text-align: left;
+  font-family: arial;
+  display: flex;
+  color:white;
+  background:red;
+  padding: 6px;
+}
